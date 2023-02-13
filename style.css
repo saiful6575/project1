@@ -1,0 +1,63 @@
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-1 {
+    height: 100px;
+    width: 140px;
+    float: left;
+}
+
+.logo-2 {
+    height: 100px;
+    width: 130px;
+    float: right;
+}
+
+.head-txt {
+    text-align: center;
+}
+
+.main-contain {
+    width: auto;
+    height: auto;
+    border: 2px solid blueviolet;
+    background-color: pink;
+    padding: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+.img-1 {
+    border: 1px solid blue;
+    /* margin: 100px; */
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.figcap{
+margin-left: 40px;
+}
+.img-2 {
+    width: 260px;
+    height: 195px;
+    border: 1px solid blue;
+}
+
+.sec-1 {
+    display: flex;
+}
+
+.para-2 {
+    margin: 75px;
+    color: white;
+
+}
+
+.sec-2 {
+    display: flex;
+}
