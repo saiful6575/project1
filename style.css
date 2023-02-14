@@ -61,3 +61,51 @@ margin-left: 40px;
 .sec-2 {
     display: flex;
 }
+.event>li{
+    margin-left: 50px;
+}
+hr {
+    border: none;
+    border-top: 1px solid black;
+    margin: 1em 0;
+  }
+  .image-with-text {
+    overflow: auto;
+  }  
+  .ct-img{
+    float: left;
+    margin-right: 20px;
+    margin-left: 30px;
+  }
+  .flexbox{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 30px;
+  }
+  .img-3{
+    width: 280px;
+    height: 220px;
+    border: 1px solid black;
+    margin: 4px;
+  }
+  .img-4{
+    width: 280px;
+    height: 220px;
+    border: 1px solid black;
+    margin: 4px;
+  }
+  .para-3{
+    width: 280px;
+    height: 220px;
+    text-align: center;
+    border: 1px solid turquoise;
+    background-color: darkgray;
+    overflow: hidden;
+
+  }
+  .hike-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
