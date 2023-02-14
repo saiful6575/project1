@@ -28,7 +28,7 @@
     padding: 5px;
 }
 
-li {
+.sec-1, .sec-2, .img-1, .img-2{
     list-style: none;
 }
 
